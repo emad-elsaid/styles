@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# Build SASS files
+
+sass sass/all.scss:styles.css

@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# Build files and watch for changes in files and rebuild with every change
+
+sass --watch sass/all.scss:styles.css
