@@ -20,3 +20,7 @@ The goal so far:
 
 - Builds on [modern-normalize](https://github.com/sindresorhus/modern-normalize)
 - Uses [elementaryOS colors](https://github.com/elementary/web-styles/blob/master/_sass/_colors.scss)
+
+# Limitations
+
+- The project milestone is to fulfill the needs of [Xlog](https://xlog.emadelsaid.com/) instead of depending on [bulma](https://bulma.io/)
