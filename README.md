@@ -15,3 +15,8 @@ The goal so far:
 - `sass` directory include the source files. and the output is `styles.css` in the root.
 - for building the project `cmd/build`
 - for building while developing `cmd/watch`
+
+# Structure
+
+- Builds on [modern-normalize](https://github.com/sindresorhus/modern-normalize)
+- Uses [elementaryOS colors](https://github.com/elementary/web-styles/blob/master/_sass/_colors.scss)
